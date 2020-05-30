@@ -1,0 +1,12 @@
+--- Task Definition Arns
+arn:aws:ecs:ap-northeast-1:395127550274:task-definition/rf-sandbox-infratest02-ecstd:1
+arn:aws:ecs:ap-northeast-1:395127550274:task-definition/rf-sandbox-infratest02-ecstd:2
+arn:aws:ecs:ap-northeast-1:395127550274:task-definition/rf-sandbox-infratest02-ecstd:3
+arn:aws:ecs:ap-northeast-1:395127550274:task-definition/rf-sandbox-infratest02-ecstd:4
+arn:aws:ecs:ap-northeast-1:395127550274:task-definition/rf-sandbox-infratest02-ecstd:5
+arn:aws:ecs:ap-northeast-1:395127550274:task-definition/rf-sandbox-infratest02-ecstd:6
+--- Service Arns
+arn:aws:ecs:ap-northeast-1:395127550274:service/rf-sandbox-infratest02-ecss
+--- Cluster Arns
+arn:aws:ecs:ap-northeast-1:395127550274:cluster/rf-sandbox-infratest01-ecsc
+arn:aws:ecs:ap-northeast-1:395127550274:cluster/rf-sandbox-infratest02-ecsc
